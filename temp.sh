@@ -1,0 +1,5 @@
+#!/bin/bash/
+python image_resizer_imagent.py -i D:/JupyterNotebook/Assignment2/tiny-imagenet-200/tiny-imagenet-200/train/n01443537/images -o D:/JupyterNotebook/Assignment2/train/n01443537/images -s 32 -a bilinear
+python image_resizer_imagent.py -i D:/JupyterNotebook/Assignment2/tiny-imagenet-200/tiny-imagenet-200/train/n01443537images/images -o D:/JupyterNotebook/Assignment2/train/n01443537images/images -s 32 -a bilinear
+python image_resizer_imagent.py -i D:/JupyterNotebook/Assignment2/tiny-imagenet-200/tiny-imagenet-200/train/n01629819/images -o D:/JupyterNotebook/Assignment2/train/n01629819/images -s 32 -a bilinear
+python image_resizer_imagent.py -i D:/JupyterNotebook/Assignment2/tiny-imagenet-200/tiny-imagenet-200/train/n01629819images/images -o D:/JupyterNotebook/Assignment2/train/n01629819images/images -s 32 -a bilinear
